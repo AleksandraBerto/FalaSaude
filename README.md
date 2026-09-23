@@ -40,8 +40,7 @@ Caso o sistema identifique ou gere uma informação que não possa ser confirmad
 Reduzir o tempo gasto com documentação e organização de informações, ajudando o profissional a se concentrar mais no atendimento ao paciente.
 
 ## 🎨 Protótipo
-
-
+https://www.figma.com/design/SPFoFzuS2wpFew8xFyM7jD/Sem-t%C3%ADtulo?node-id=0-1&t=p5wWENsxcmrC3YWE-1
 
 > O protótipo será disponibilizado conforme o desenvolvimento da solução.
 
